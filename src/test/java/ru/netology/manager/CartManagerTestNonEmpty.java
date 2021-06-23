@@ -3,7 +3,7 @@ package ru.netology.manager;
 import org.junit.jupiter.api.Test;
 import ru.netology.domain.PurchaseItem;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class CartManagerTestNonEmpty {
   @Test
